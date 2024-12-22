@@ -1,2 +1,4 @@
-# Donut_3D
-3D model of donuts on a plate modelled from scratch using Blender
+## Donuts 🍩
+3D render of donuts on a plate modelled from scratch using Blender.
+
+![image](Donuts.png)
